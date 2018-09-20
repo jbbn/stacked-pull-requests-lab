@@ -2,6 +2,6 @@
 
 ## TODO
 
-[X] Feature A
-[X] Feature B
-[X] Feature C
+- [X] Feature A
+- [X] Feature B
+- [X] Feature C
