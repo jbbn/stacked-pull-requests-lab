@@ -4,4 +4,4 @@
 
 [X] Feature A
 [X] Feature B
-[ ] Feature C
+[X] Feature C
